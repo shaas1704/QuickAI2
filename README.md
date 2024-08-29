@@ -154,9 +154,3 @@ notebooks.
 
 After making changes in the repo, you should run `nbdev_prepare` and
 make additional and necessary changes in order to pass all the tests.
-
-## Docker Containers
-
-For those interested in official docker containers for this project,
-they can be found
-[here](https://github.com/fastai/docker-containers#fastai).
