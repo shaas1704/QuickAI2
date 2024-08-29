@@ -39,7 +39,7 @@ use an editable install of
 [fastcore](https://github.com/fastai/fastcore) to go with it.) First
 install PyTorch, and then:
 
-    git clone https://github.com/fastai/fastai
+    git clone https://github.com/shaas1704/QuickAI2
     pip install -e "fastai[dev]"
 
 ## Learning fastai
